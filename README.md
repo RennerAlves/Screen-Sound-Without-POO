@@ -1,0 +1,1 @@
+Esta é a versão inicial do Projeto Screen Sound, no qual montamos a estrutura básica do programa que faremos, não utilizando, ainda, do paradigma da Orientaçâo a Objetos. Em breve, lançarei o próximo passo deste projeto, já trazendo uma construção mais robusta, que observa a POO.
